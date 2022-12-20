@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Logo.png">
+<TextureAtlas imagePath="Bg.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="logo bumpin0000" x="10" y="10" width="883" height="698"/>
+	<SubTexture name="ddddd instance 10000" x="10" y="10" width="1359" height="855"/>
 	
 </TextureAtlas>
