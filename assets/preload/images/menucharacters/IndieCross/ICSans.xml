@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ICSans.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Saness instance 10000" x="10" y="10" width="1321" height="720" frameX="0" frameY="-26" frameWidth="1321" frameHeight="754"/>
+	
+</TextureAtlas>
